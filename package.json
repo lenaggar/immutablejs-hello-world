@@ -1,0 +1,20 @@
+{
+  "name": "immutablejs-hello-world",
+  "version": "1.0.0",
+  "description": "trying ImmutableJS",
+  "main": "index.js",
+  "repository": "https://github.com/lenaggar/immutablejs-hello-world.git",
+  "author": "lenaggar <naggar218@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "immutable": "^3.8.1"
+  },
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015-node6": "^0.4.0",
+    "babel-preset-stage-3": "^6.24.1",
+    "babel-register": "^6.26.0",
+    "chai": "^4.1.2",
+    "mocha": "^3.5.1"
+  }
+}

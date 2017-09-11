@@ -6,6 +6,9 @@
   "repository": "https://github.com/lenaggar/immutablejs-hello-world.git",
   "author": "lenaggar <naggar218@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "test": "mocha --compilers js:babel-core/register"
+  },
   "dependencies": {
     "immutable": "^3.8.1"
   },
